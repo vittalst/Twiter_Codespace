@@ -1,0 +1,22 @@
+DevOps and GIT Quiz
+
+
+1. Name few version control tools – SVN,GITLAB,GITHUB
+2.Which are few monitoring tools -  Grafana & Prometheus
+3. For what can we use Jenkins for – Used for continuous integration
+4.What is GIT ?—It is a source code management tool
+5. What is DevOps ?- Devops is a culture to make continuous development and operation to implement/changes the project within a time frame.
+6. Which are the different stages in GIT? – Working Directory-Staging area-Repository
+7. What is meant by a branch?--  Branch act as a container in a git repository where we can write codes and make changes and delete the files.
+8. Write command to undo the changes in working directory-  git stash
+9. Write command to clone from a branch-   git clone “Enter branch url”
+10. What is the command used to add all files in GIT
+   *  git add filename.extension
+   * git commit –m”Message”
+  * Git push
+11.What is Maven used for?—Maven used to build a package.
+12. What is GITHub?—Git hub is a cloud based source code management tool.
+13.Write command to identify the changes in working area in GIT?-  git Diff
+14. Which tools can we use for containerization in DevOps?-  Docker
+15. Which tool is for infrastructure as code in DevOps?--  Terraform and Python
+
